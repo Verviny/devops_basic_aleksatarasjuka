@@ -1,1 +1,2 @@
-# devops_basic_aleksatarasjuka
+# DevOps repozitorijs
+Aleksandras Tarasjukas DevOps repozitorijs pamati iesācējiem
